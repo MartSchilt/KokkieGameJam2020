@@ -1030,3 +1030,303 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-15.40.38:370][682]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.07.11-15.40.38:378][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
 [2020.07.11-15.40.38:398][683]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.07.11-15.47.29:200][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.07.11-15.47.29:203][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 0.050
+[2020.07.11-15.57.29:595][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.07.11-15.57.29:596][642]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap' took 0.050
+[2020.07.11-15.58.05:361][749]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-15.58.05:404][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.07.11-15.58.07:166][749]LogSlate: Window 'Save Content' being destroyed
+[2020.07.11-15.58.07:233][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.07.11-15.58.07:495][749]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenu1F76969F402F0D8192A2B6A01B3448BC.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/MainMenu.umap'
+[2020.07.11-15.58.07:498][749]LogFileHelpers: Saving map 'MainMenu' took 0.312
+[2020.07.11-15.58.07:499][749]LightingResults: New page: Lighting Build
+[2020.07.11-15.58.07:500][749]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.11-15.58.07:500][749]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-15.58.07:500][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-15.58.07:500][749]MapCheck: New page: Map Check
+[2020.07.11-15.58.07:500][749]LightingResults: New page: Lighting Build
+[2020.07.11-15.58.07:550][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2020.07.11-15.58.07:698][749]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-15.58.07:747][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.07.11-15.58.07:765][749]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-15.58.07:765][749]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,061ms to complete.
+[2020.07.11-15.58.07:765][749]LogFileHelpers: Loading map 'MainMenu' took 0.267
+[2020.07.11-15.58.07:797][749]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-15.58.07:797][749]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-15.58.09:607][944]LogEditorViewport: Clicking on Actor (LMB): PlayableCharacterBP_C (PlayableCharacterBP)
+[2020.07.11-15.58.14:483][405]LogEditorViewport: Clicking Background
+[2020.07.11-16.06.56:822][424]BlueprintLog: New page: Compile MainMenuBP
+[2020.07.11-16.06.56:879][424]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.07.11-16.06.57:430][471]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuBPE60C61C345C3FAD3A2E19281B48FC181.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainMenuBP.uasset'
+[2020.07.11-16.06.57:443][471]AssetCheck: New page: Asset Save: MainMenuBP
+[2020.07.11-16.06.57:443][471]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuBP.MainMenuBP
+[2020.07.11-16.08.00:673][355]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-16.08.00:722][355]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.07.11-16.08.02:552][355]LogSlate: Window 'Save Content' being destroyed
+[2020.07.11-16.08.02:611][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.07.11-16.08.02:874][355]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenu2D1EA45D41821CE3C1DA4CB6757262DC.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/MainMenu.umap'
+[2020.07.11-16.08.02:895][355]LogFileHelpers: Saving map 'MainMenu' took 0.329
+[2020.07.11-16.08.02:896][355]LightingResults: New page: Lighting Build
+[2020.07.11-16.08.02:897][355]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.11-16.08.02:897][355]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.08.02:897][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.08.02:897][355]MapCheck: New page: Map Check
+[2020.07.11-16.08.02:897][355]LightingResults: New page: Lighting Build
+[2020.07.11-16.08.02:943][355]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.07.11-16.08.02:955][355]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-16.08.03:138][355]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.11-16.08.03:185][355]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2020.07.11-16.08.03:203][355]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.11-16.08.03:204][355]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2020.07.11-16.08.03:204][355]LogFileHelpers: Loading map 'MainMenu' took 0.309
+[2020.07.11-16.08.03:245][355]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-16.08.03:245][355]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-16.08.04:403][454]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.07.11-16.09.06:755][450]BlueprintLog: New page: Compile MainMenu
+[2020.07.11-16.09.07:046][450]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.07.11-16.09.07:344][470]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2020.07.11-16.09.07:605][470]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuDACD27904CE806F63DD3CBA1CC85B406.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/MainMenu.umap'
+[2020.07.11-16.09.07:624][470]LogFileHelpers: Saving map 'MainMenu' took 0.331
+[2020.07.11-16.09.07:638][470]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-16.09.07:638][470]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-16.09.08:489][547]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.07.11-16.09.08:749][547]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuDB49CE08499A52B3C34A1F8129B999F5.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/MainMenu.umap'
+[2020.07.11-16.09.08:781][547]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-16.09.08:781][547]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-16.10.29:775][641]BlueprintLog: New page: Compile MainMenuBP
+[2020.07.11-16.10.29:832][641]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.07.11-16.10.30:259][680]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuBPDAE50EF84F58F28F1649BD9DCAF483E0.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainMenuBP.uasset'
+[2020.07.11-16.10.30:276][680]AssetCheck: New page: Asset Save: MainMenuBP
+[2020.07.11-16.10.30:276][680]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuBP.MainMenuBP
+[2020.07.11-16.10.33:759][ 69]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuBP5196514C4F52043A8D7AD3A231D530C2.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainMenuBP.uasset'
+[2020.07.11-16.10.33:777][ 69]AssetCheck: New page: Asset Save: MainMenuBP
+[2020.07.11-16.10.33:777][ 69]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuBP.MainMenuBP
+[2020.07.11-16.11.44:496][861]BlueprintLog: New page: Compile MainMenuBP
+[2020.07.11-16.11.44:553][861]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2020.07.11-16.11.45:098][913]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenuBP16554C2D4809F37DBD37018595F3A72B.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainMenuBP.uasset'
+[2020.07.11-16.11.45:114][913]AssetCheck: New page: Asset Save: MainMenuBP
+[2020.07.11-16.11.45:114][913]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenuBP.MainMenuBP
+[2020.07.11-16.11.47:488][172]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.07.11-16.11.47:774][172]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainMenu4510CE1948165B19F6B0F5853E334A37.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/MainMenu.umap'
+[2020.07.11-16.11.47:810][172]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-16.11.47:810][172]LogContentValidation: Display: Validating World /Game/Maps/MainMenu.MainMenu
+[2020.07.11-16.11.48:273][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.07.11-16.11.53:514][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.11-16.11.53:540][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.11.53:540][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-16.11.53:540][681]PIE: New page: PIE session: MainMenu (11 jul. 2020 20:11:53)
+[2020.07.11-16.11.53:540][681]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.11.53:542][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001811s)
+[2020.07.11-16.11.53:543][681]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-16.11.53:543][681]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2020.07.11-16.11.53:543][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003094s)
+[2020.07.11-16.11.53:596][681]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-16.11.53:597][681]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-16.11.53:597][681]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-16.11.53:597][681]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-16.11.53:598][681]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: Channel Order:
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-16.11.53:658][681]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-16.11.53:677][681]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.11-16.11.53:678][681]LogInit: FAudioDevice initialized.
+[2020.07.11-16.11.53:732][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-16.11.53:732][681]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.11.53:733][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.11-18.11.53
+[2020.07.11-16.11.53:734][681]LogWorld: Bringing up level for play took: 0.000954
+[2020.07.11-16.11.53:734][681]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.07.11-16.11.53:736][681]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.11.53:736][681]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.11.53:736][681]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.11.53:738][681]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-16.11.53:738][681]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.11.53:740][681]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,501
+[2020.07.11-16.11.53:741][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.11.56:700][ 24]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.11.56:700][ 24]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.11.56:701][ 24]LogNet: Browse: /Game/Maps/TestMap
+[2020.07.11-16.11.56:701][ 24]LogLoad: LoadMap: /Game/Maps/TestMap
+[2020.07.11-16.11.56:701][ 24]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.11.56:701][ 24]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.11.56:701][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.11.56:701][ 24]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.11.56:751][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.07.11-16.11.56:768][ 24]LogAIModule: Creating AISystem for world TestMap
+[2020.07.11-16.11.56:769][ 24]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.11.56:774][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.11-18.11.56
+[2020.07.11-16.11.56:775][ 24]LogWorld: Bringing up level for play took: 0.004766
+[2020.07.11-16.11.56:775][ 24]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.11-16.11.56:775][ 24]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.11.56:775][ 24]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.11.56:775][ 24]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.11.56:776][ 24]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.11.56:776][ 24]LogLoad: Took 0.075004 seconds to LoadMap(/Game/Maps/TestMap)
+[2020.07.11-16.12.00:554][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.00:554][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.00:554][472]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.00:554][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-16.12.00:554][472]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.11-16.12.00:565][472]LogSlate: Window 'KokkieGameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.11-16.12.00:569][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.00:570][472]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.00:570][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.00:574][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-16.12.00:575][472]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.00:581][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.00:629][472]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.00:637][472]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.07.11-16.12.00:699][474]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.07.11-16.12.01:720][595]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.11-16.12.01:762][595]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.01:763][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.11-16.12.01:763][595]PIE: New page: PIE session: MainMenu (11 jul. 2020 20:12:01)
+[2020.07.11-16.12.01:763][595]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.12.01:764][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001610s)
+[2020.07.11-16.12.01:765][595]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-16.12.01:765][595]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2020.07.11-16.12.01:765][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002619s)
+[2020.07.11-16.12.01:813][595]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-16.12.01:814][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-16.12.01:814][595]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-16.12.01:814][595]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: Channel Order:
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-16.12.01:868][595]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-16.12.01:887][595]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.11-16.12.01:888][595]LogInit: FAudioDevice initialized.
+[2020.07.11-16.12.01:931][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-16.12.01:931][595]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.12.01:932][595]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.11-18.12.01
+[2020.07.11-16.12.01:933][595]LogWorld: Bringing up level for play took: 0.000861
+[2020.07.11-16.12.01:933][595]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.07.11-16.12.01:935][595]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.01:935][595]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.01:935][595]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.01:936][595]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-16.12.01:936][595]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.01:937][595]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0,304
+[2020.07.11-16.12.01:938][595]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.02:732][679]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.02:732][679]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.02:732][679]LogNet: Browse: /Game/Maps/TestMap
+[2020.07.11-16.12.02:732][679]LogLoad: LoadMap: /Game/Maps/TestMap
+[2020.07.11-16.12.02:732][679]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.12.02:732][679]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.02:732][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.02:732][679]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.02:782][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.07.11-16.12.02:797][679]LogAIModule: Creating AISystem for world TestMap
+[2020.07.11-16.12.02:797][679]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.12.02:802][679]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.11-18.12.02
+[2020.07.11-16.12.02:802][679]LogWorld: Bringing up level for play took: 0.003958
+[2020.07.11-16.12.02:803][679]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.11-16.12.02:803][679]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.02:803][679]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.02:803][679]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.02:803][679]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.02:803][679]LogLoad: Took 0.071442 seconds to LoadMap(/Game/Maps/TestMap)
+[2020.07.11-16.12.05:043][943]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-16.12.06:493][117]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.06:493][117]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.06:493][117]LogNet: Browse: /Game/Maps/MainMenu
+[2020.07.11-16.12.06:493][117]LogLoad: LoadMap: /Game/Maps/MainMenu
+[2020.07.11-16.12.06:493][117]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.11-16.12.06:493][117]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.06:493][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.06:494][117]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.06:537][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.07.11-16.12.06:538][117]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.12.06:540][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001667s)
+[2020.07.11-16.12.06:540][117]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-16.12.06:541][117]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2020.07.11-16.12.06:541][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002692s)
+[2020.07.11-16.12.06:541][117]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.12.06:542][117]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.11-18.12.06
+[2020.07.11-16.12.06:542][117]LogWorld: Bringing up level for play took: 0.000620
+[2020.07.11-16.12.06:542][117]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.11-16.12.06:542][117]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.06:542][117]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.06:542][117]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.06:543][117]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-16.12.06:543][117]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.06:543][117]LogLoad: Took 0.050620 seconds to LoadMap(/Game/Maps/UEDPIE_0_MainMenu)
+[2020.07.11-16.12.07:243][197]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.07:243][197]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.07.11-16.12.07:243][197]LogNet: Browse: /Game/Maps/TestMap
+[2020.07.11-16.12.07:243][197]LogLoad: LoadMap: /Game/Maps/TestMap
+[2020.07.11-16.12.07:243][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2020.07.11-16.12.07:244][197]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.07:244][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.07:244][197]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.07:289][197]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.07.11-16.12.07:304][197]LogAIModule: Creating AISystem for world TestMap
+[2020.07.11-16.12.07:305][197]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.11-16.12.07:309][197]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.11-18.12.07
+[2020.07.11-16.12.07:310][197]LogWorld: Bringing up level for play took: 0.004188
+[2020.07.11-16.12.07:310][197]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.11-16.12.07:310][197]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.07:310][197]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.11-16.12.07:310][197]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.07:311][197]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.11-16.12.07:311][197]LogLoad: Took 0.067354 seconds to LoadMap(/Game/Maps/TestMap)
+[2020.07.11-16.12.10:457][569]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.10:457][569]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.10:458][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.10:458][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-16.12.10:458][569]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.11-16.12.10:468][569]LogSlate: Window 'KokkieGameJam Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.11-16.12.10:473][569]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.10:473][569]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.10:473][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.10:480][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-16.12.10:480][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-16.12.10:487][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.10:531][569]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.10:539][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2020.07.11-16.12.10:558][570]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.07.11-16.12.16:983][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.07.11-16.12.17:033][778]LogSlate: Window 'KokkieGameJam - Unreal Editor' being destroyed
+[2020.07.11-16.12.17:488][778]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:489][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:508][778]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:508][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:622][778]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:622][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:735][778]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:735][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:743][778]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:743][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:824][778]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-16.12.17:824][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-16.12.17:987][779]Cmd: QUIT_EDITOR
+[2020.07.11-16.12.17:987][779]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.11-16.12.18:008][779]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.11-16.12.18:008][779]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-16.12.18:431][779]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.11-16.12.18:443][779]LogExit: Preparing to exit.
