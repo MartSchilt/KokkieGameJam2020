@@ -5323,3 +5323,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-16.54.23:142][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
 [2020.07.12-16.54.23:160][410]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2020.07.12-16.54.33:193][552]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-16.55.36:615][741]AssetReimport: New page: Outstanding source content changes 20:55:36
+[2020.07.12-16.55.36:617][741]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/SquirrelRun2.png)
+[2020.07.12-16.55.41:591][742]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/SquirrelRun1.png)
+[2020.07.12-16.55.46:407][743]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/ParkBench.png)
+[2020.07.12-16.55.50:657][744]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/SquirrelRun227CE81254A3BF0202C073C844424E3A4.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/SquirrelRun2.uasset'
+[2020.07.12-16.55.52:702][744]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/SquirrelRun1838D915941CFCADF772866BD31685783.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/SquirrelRun1.uasset'
+[2020.07.12-16.55.53:726][744]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ParkBench3A34DAC94F1F68590B1D7688A93960A0.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/ParkBench.uasset'
+[2020.07.12-16.55.53:802][745]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-16.55.53:802][745]LogContentValidation: Display: Validating Texture2D /Game/Kjell/SquirrelRun2.SquirrelRun2
+[2020.07.12-16.55.53:802][745]LogContentValidation: Display: Validating Texture2D /Game/Kjell/SquirrelRun1.SquirrelRun1
+[2020.07.12-16.55.53:802][745]LogContentValidation: Display: Validating Texture2D /Game/Kjell/ParkBench.ParkBench
+[2020.07.12-16.55.55:574][934]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-16.55.56:951][941]AssetReimport: Importing new asset /Game/Kjell/SquirrelRun2.
+[2020.07.12-16.55.56:952][941]AssetReimport: Importing new asset /Game/Kjell/SquirrelRun1.
+[2020.07.12-16.55.56:952][941]AssetReimport: Importing new asset /Game/Kjell/ParkBench.
+[2020.07.12-16.56.00:957][954]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
