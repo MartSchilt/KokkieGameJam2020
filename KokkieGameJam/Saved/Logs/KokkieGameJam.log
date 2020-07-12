@@ -5386,3 +5386,936 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-11.21.27:216][616]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
 [2020.07.12-11.21.27:493][644]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
 [2020.07.12-11.21.33:487][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.07.12-11.21.38:109][868]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.42:929][ 79]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.44:950][316]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.49:927][904]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.50:961][ 23]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.54:910][492]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.21.59:948][ 85]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.08:921][556]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.19:138][681]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/FireHydrant11088141455676E167BBC28A9DA4A377.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/FireHydrant.uasset'
+[2020.07.12-11.22.19:350][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.07.12-11.22.19:404][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.07.12-11.22.19:439][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.07.12-11.22.19:478][681]AssetCheck: New page: Asset Save: FireHydrant
+[2020.07.12-11.22.19:478][681]LogContentValidation: Display: Validating Texture2D /Game/Textures/FireHydrant.FireHydrant
+[2020.07.12-11.22.20:259][762]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-11.22.20:348][769]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-11.22.28:656][382]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.28:956][409]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.29:362][453]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/Textures/FireHydrant_Sprite.FireHydrant_Sprite
+[2020.07.12-11.22.29:781][477]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.31:438][631]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/FireHydrant_Sprite8F743E5046CA1B388A7EF2900D32A418.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/FireHydrant_Sprite.uasset'
+[2020.07.12-11.22.31:450][631]AssetCheck: New page: Asset Save: FireHydrant_Sprite
+[2020.07.12-11.22.31:450][631]LogContentValidation: Display: Validating PaperSprite /Game/Textures/FireHydrant_Sprite.FireHydrant_Sprite
+[2020.07.12-11.22.32:203][702]LogSlate: Window 'FireHydrant_Sprite' being destroyed
+[2020.07.12-11.22.32:219][702]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.22.32:220][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.22.32:541][732]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.33:588][854]LogEditorViewport: Clicking on Actor (LMB): FireHydrantBP_C (FireHydrantBP)
+[2020.07.12-11.22.33:938][886]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.37:629][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Obstacles/FireHydrantBP.FireHydrantBP
+[2020.07.12-11.22.38:295][299]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.43:040][607]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.45:205][719]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.45:590][737]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.46:972][831]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.49:145][992]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.22.54:051][348]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.22.55:541][390]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.23.01:987][798]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.02:333][819]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.12:513][592]BlueprintLog: New page: Compile FireHydrantBP
+[2020.07.12-11.23.12:787][592]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2020.07.12-11.23.13:160][612]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/FireHydrantBPAF9976A74BC3CBE60FADBE8A13C6F540.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Obstacles/FireHydrantBP.uasset'
+[2020.07.12-11.23.13:189][612]AssetCheck: New page: Asset Save: FireHydrantBP
+[2020.07.12-11.23.13:189][612]LogContentValidation: Display: Validating Blueprint /Game/Obstacles/FireHydrantBP.FireHydrantBP
+[2020.07.12-11.23.14:177][694]LogSlate: Window 'FireHydrantBP' being destroyed
+[2020.07.12-11.23.15:780][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.12-11.23.19:899][344]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.21:907][567]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.21:926][568]BlueprintLog: New page: Compile FireHydrantBP
+[2020.07.12-11.23.22:215][568]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.07.12-11.23.22:625][606]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/FireHydrantBP824879EA423D6A5924F79F9B22BD804A.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Obstacles/FireHydrantBP.uasset'
+[2020.07.12-11.23.22:638][606]AssetCheck: New page: Asset Save: FireHydrantBP
+[2020.07.12-11.23.22:638][606]LogContentValidation: Display: Validating Blueprint /Game/Obstacles/FireHydrantBP.FireHydrantBP
+[2020.07.12-11.23.23:542][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.07.12-11.23.23:781][701]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap8B79FD164A2B1AA37C2D9BA473437937.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap.umap'
+[2020.07.12-11.23.23:818][701]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap_BuiltData76D3652A49E199AB71FAC7A39F1D2A8E.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap_BuiltData.uasset'
+[2020.07.12-11.23.23:836][701]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.23.23:836][701]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.07.12-11.23.23:836][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.07.12-11.23.25:230][860]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.25:555][889]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.31:606][590]LogEditorViewport: Clicking on Actor (LMB): TrafficSignBP_C (TrafficSignBP)
+[2020.07.12-11.23.36:907][189]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.39:903][526]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.40:336][575]Cmd: TRANSACTION UNDO
+[2020.07.12-11.23.40:336][575]LogEditorTransaction: Undo Move Actors
+[2020.07.12-11.23.42:891][826]Cmd: TRANSACTION UNDO
+[2020.07.12-11.23.42:891][826]LogEditorTransaction: Undo Move Actors
+[2020.07.12-11.23.42:918][827]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.43:596][897]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.23.46:433][218]LogEditorViewport: Clicking on Actor (LMB): FireHydrantBP_C (FireHydrantBP)
+[2020.07.12-11.23.49:752][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.12-11.23.50:307][658]Cmd: TRANSACTION UNDO
+[2020.07.12-11.23.50:307][658]LogEditorTransaction: Undo Clicking on Actors
+[2020.07.12-11.23.50:967][690]Cmd: TRANSACTION UNDO
+[2020.07.12-11.23.50:968][690]LogEditorTransaction: Undo Move Actors
+[2020.07.12-11.23.57:788][486]BlueprintLog: New page: Compile FireHydrantBP
+[2020.07.12-11.23.58:054][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.07.12-11.23.58:444][519]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/FireHydrantBP35230BDA47F709FEA41C048302A8DFD5.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Obstacles/FireHydrantBP.uasset'
+[2020.07.12-11.23.58:456][519]AssetCheck: New page: Asset Save: FireHydrantBP
+[2020.07.12-11.23.58:456][519]LogContentValidation: Display: Validating Blueprint /Game/Obstacles/FireHydrantBP.FireHydrantBP
+[2020.07.12-11.24.04:688][250]BlueprintLog: New page: Compile TrafficSignBP
+[2020.07.12-11.24.04:963][250]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2020.07.12-11.24.05:571][281]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TrafficSignBP6BFFBDBC4EC97991887D869ACDCD5929.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Obstacles/TrafficSignBP.uasset'
+[2020.07.12-11.24.05:584][281]AssetCheck: New page: Asset Save: TrafficSignBP
+[2020.07.12-11.24.05:584][281]LogContentValidation: Display: Validating Blueprint /Game/Obstacles/TrafficSignBP.TrafficSignBP
+[2020.07.12-11.24.07:098][444]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.07.12-11.24.07:344][444]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap28FC29854106F26DE7CC8581DDFCCF03.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap.umap'
+[2020.07.12-11.24.07:418][444]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap_BuiltData418E968A49CE16F67407D896AA49A7A4.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap_BuiltData.uasset'
+[2020.07.12-11.24.07:437][444]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.24.07:437][444]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.07.12-11.24.07:437][444]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.07.12-11.24.08:446][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.07.12-11.24.10:506][766]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.11:182][842]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-11.24.11:201][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.24.11:201][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-11.24.11:201][842]PIE: New page: PIE session: TestMap (12 jul. 2020 15:24:11)
+[2020.07.12-11.24.11:201][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.24.11:205][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004136s)
+[2020.07.12-11.24.11:206][842]LogAIModule: Creating AISystem for world TestMap
+[2020.07.12-11.24.11:206][842]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2020.07.12-11.24.11:206][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.005379s)
+[2020.07.12-11.24.11:245][842]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-11.24.11:248][842]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-11.24.11:248][842]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-11.24.11:249][842]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-11.24.11:249][842]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: Channel Order:
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-11.24.11:314][842]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-11.24.11:333][842]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.24.11:335][842]LogInit: FAudioDevice initialized.
+[2020.07.12-11.24.11:347][842]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-11.24.11:348][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.12-13.24.11
+[2020.07.12-11.24.11:349][842]LogWorld: Bringing up level for play took: 0.001583
+[2020.07.12-11.24.11:349][842]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.07.12-11.24.11:351][842]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.24.11:351][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.24.11:351][842]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.24.11:352][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.24.11:352][842]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0,674
+[2020.07.12-11.24.11:352][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.24.13:194][ 56]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.13:538][ 91]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.20:027][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.24.20:028][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.24.20:028][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.24.20:028][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.24.20:028][860]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.24.20:028][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.24.20:028][860]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.24.20:029][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.24.20:040][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-11.24.20:040][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.24.20:046][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.24.20:089][860]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.24.20:093][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.24.20:098][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.07.12-11.24.20:148][862]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.07.12-11.24.26:938][674]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.27:275][708]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.27:561][737]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.27:838][765]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.28:267][811]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.28:810][869]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.24.45:308][783]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/CharacterBackgroundC6C8479B4F6CC12DA2689A91C3415D37.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/UI/CharacterBackground.uasset'
+[2020.07.12-11.24.45:527][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.07.12-11.24.45:580][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.07.12-11.24.45:620][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.07.12-11.24.45:668][783]AssetCheck: New page: Asset Save: CharacterBackground
+[2020.07.12-11.24.45:668][783]LogContentValidation: Display: Validating Texture2D /Game/Textures/UI/CharacterBackground.CharacterBackground
+[2020.07.12-11.24.55:211][877]LogTexture: Display: Building textures: DogCharacterPortrait (BGRA8, 600X600)
+[2020.07.12-11.24.58:760][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.07.12-11.25.07:205][208]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.12-11.26.20:950][208]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.26.20:950][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.26.21:010][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-11.26.21:010][208]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.26.21:010][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.26.21:070][208]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Kjell/CharacterPortraitBG.CharacterPortraitBG
+	Asset Name: /Game/Kjell/DogCharacterPortrait.DogCharacterPortrait
+	Asset Name: /Game/Kjell/MainCharacterPortraitAggrevated.MainCharacterPortraitAggrevated
+	Asset Name: /Game/Kjell/MainDogPortraitAttracted.MainDogPortraitAttracted
+	Asset Name: /Game/Kjell/ManCharacterPortrait.ManCharacterPortrait
+[2020.07.12-11.26.22:639][208]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.07.12-11.26.22:677][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.07.12-11.26.22:714][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.07.12-11.26.22:750][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.07.12-11.26.22:785][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.07.12-11.26.22:825][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.07.12-11.26.22:863][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.07.12-11.26.23:844][286]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.26.24:745][377]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.26.29:337][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.07.12-11.26.31:093][904]LogSlate: Window 'Save Content' being destroyed
+[2020.07.12-11.26.31:166][904]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainUIBP470340CF48CBB9561966588416DBBC5A.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainUIBP.uasset'
+[2020.07.12-11.26.31:196][904]AssetCheck: New page: Asset Save: MainUIBP
+[2020.07.12-11.26.31:196][904]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainUIBP.MainUIBP
+[2020.07.12-11.26.37:807][661]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainUIBP.MainUIBP
+[2020.07.12-11.26.43:244][228]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.26.43:590][264]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-11.26.43:759][283]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.27:233][575]BlueprintLog: New page: Compile MainUIBP
+[2020.07.12-11.28.27:371][575]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.07.12-11.28.27:788][616]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/MainUIBP28D33EBA4B7824DB8353E88B911E0F07.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/MainUIBP.uasset'
+[2020.07.12-11.28.27:801][616]AssetCheck: New page: Asset Save: MainUIBP
+[2020.07.12-11.28.27:801][616]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainUIBP.MainUIBP
+[2020.07.12-11.28.29:095][744]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.28.29:397][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.07.12-11.28.29:650][749]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMapD91E63F44E094F0A97AB8B8776E0CF71.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap.umap'
+[2020.07.12-11.28.29:687][749]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap_BuiltData96DE9C5041314F272CEF7484463B1DC6.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap_BuiltData.uasset'
+[2020.07.12-11.28.29:704][749]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.28.29:704][749]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.07.12-11.28.29:704][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.07.12-11.28.30:150][795]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-11.28.30:174][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.28.30:174][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-11.28.30:175][795]PIE: New page: PIE session: TestMap (12 jul. 2020 15:28:30)
+[2020.07.12-11.28.30:175][795]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.28.30:179][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004136s)
+[2020.07.12-11.28.30:180][795]LogAIModule: Creating AISystem for world TestMap
+[2020.07.12-11.28.30:180][795]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2020.07.12-11.28.30:180][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.005587s)
+[2020.07.12-11.28.30:222][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-11.28.30:223][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-11.28.30:223][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-11.28.30:224][795]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-11.28.30:224][795]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: Channel Order:
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-11.28.30:292][795]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-11.28.30:312][795]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.28.30:314][795]LogInit: FAudioDevice initialized.
+[2020.07.12-11.28.30:322][795]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-11.28.30:324][795]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.12-13.28.30
+[2020.07.12-11.28.30:324][795]LogWorld: Bringing up level for play took: 0.001345
+[2020.07.12-11.28.30:325][795]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.07.12-11.28.30:326][795]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.28.30:326][795]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.28.30:326][795]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.28.30:327][795]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.28.30:327][795]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap -0,351
+[2020.07.12-11.28.30:327][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.28.35:952][397]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.36:245][425]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.39:563][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.28.39:563][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.28.39:563][784]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.28.39:563][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.28.39:563][784]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.28.39:563][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.28.39:564][784]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.28.39:564][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.28.39:571][784]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-11.28.39:572][784]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.28.39:577][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.28.39:618][784]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.28.39:621][784]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.28.39:626][784]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.07.12-11.28.39:679][786]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.07.12-11.28.39:914][811]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.40:212][838]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.41:946][ 32]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.42:315][ 55]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.42:823][107]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.43:146][133]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.43:463][157]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.43:714][181]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.46:927][546]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.52:189][588]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.57:022][606]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/UI/CharacterBackground.CharacterBackground
+[2020.07.12-11.28.57:266][626]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.28.57:932][702]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.10:911][242]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.11:914][361]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.12:907][480]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.17:904][ 75]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.18:903][194]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.22:075][572]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.22:089][573]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/temp.252A99354E9FF559F2F022A0C7768911 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:089][573]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/temp.252A99354E9FF559F2F022A0C7768911! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:089][573]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/temp.44D912ED4AC00850C016B291B9B408A5 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:089][573]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/temp.44D912ED4AC00850C016B291B9B408A5! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:089][573]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__52CF827247EBA6537525895E646636BE7A4DE807.
+[2020.07.12-11.29.22:849][664]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.22:864][665]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/temp.5792C308410D6CEB42D71A8B9C175558 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:864][665]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/temp.5792C308410D6CEB42D71A8B9C175558! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:864][665]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/temp.96CA4E4A45747DA203DD5CBCDCA87977 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:864][665]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/1/temp.96CA4E4A45747DA203DD5CBCDCA87977! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.22:864][665]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__0EA8E7C305BE598A00DF156D2EF8FF0A282AF50C.
+[2020.07.12-11.29.23:630][756]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.23:644][757]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/temp.8FA6C83B47C4B59EA0E5A2BE8BFA8B83 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.23:644][757]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/temp.8FA6C83B47C4B59EA0E5A2BE8BFA8B83! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.23:644][757]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/temp.9425A46D41D026DF93BCD0BC9D4E4E2E (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.23:644][757]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/temp.9425A46D41D026DF93BCD0BC9D4E4E2E! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.23:644][757]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__F4D1E6473C4DC2871D9DB2C36D3013EA87944BA6.
+[2020.07.12-11.29.23:916][789]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.24:519][860]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.24:537][861]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/temp.480423624699CAE7EEDC4EB359EB43C5 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.24:538][861]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/temp.480423624699CAE7EEDC4EB359EB43C5! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.24:538][861]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/temp.3D3331BB4B9FB8F6E8DA6CB4439252A9 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.24:538][861]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/temp.3D3331BB4B9FB8F6E8DA6CB4439252A9! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.24:538][861]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__FD902DAC94A6D52E47A880C8DA682D32B1FDD8FD.
+[2020.07.12-11.29.25:821][ 14]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.25:836][ 15]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.78FC3B8044E0FF302AFB5AABADAEE223 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.25:836][ 15]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.78FC3B8044E0FF302AFB5AABADAEE223! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.25:836][ 15]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.83779A044CA114983FAB4F9A6316AC2E (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.25:836][ 15]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.83779A044CA114983FAB4F9A6316AC2E! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.25:836][ 15]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__6D246E0AB1C8B5D82C5AFAC8EDCC0BC5BC31A305.
+[2020.07.12-11.29.28:916][384]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.28:945][385]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/temp.8388D693436D81C72E7C91AE89DA7D29 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.28:945][385]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/temp.8388D693436D81C72E7C91AE89DA7D29! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.28:945][385]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/temp.8D196D364E1641043B7FD9B5E6AC750F (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.28:945][385]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/4/temp.8D196D364E1641043B7FD9B5E6AC750F! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.28:945][385]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__35B04D6679184FE9DA26DF59779A6D927DC615BE.
+[2020.07.12-11.29.34:439][ 41]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.34:451][ 42]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.E248F6B6446A1CB64C87B595C96BC4EE (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.34:452][ 42]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.E248F6B6446A1CB64C87B595C96BC4EE! Error: 0 (De bewerking is voltooid.)
+[2020.07.12-11.29.34:452][ 42]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.B0EE770D434A8C77419EDBBE62507E39 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.34:452][ 42]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/8/temp.B0EE770D434A8C77419EDBBE62507E39! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.34:452][ 42]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__9E2BBE0CE8C26E297C223ED212D0E0DE5C5637F9.
+[2020.07.12-11.29.36:745][314]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.36:757][315]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/temp.166E60A84903302665B89A928277B0D4 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.36:757][315]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/temp.166E60A84903302665B89A928277B0D4! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.36:757][315]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/temp.1AD760BC45717AD27D69B78FDE58B357 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.36:757][315]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/0/temp.1AD760BC45717AD27D69B78FDE58B357! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.36:757][315]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__C84DDF72953B3CFAEFCD066F478785FF96EFC8DD.
+[2020.07.12-11.29.38:115][472]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/CharacterBackgroundC6D1DABD4B7748004C2872B9EF32E600.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/UI/CharacterBackground.uasset'
+[2020.07.12-11.29.38:128][472]AssetCheck: New page: Asset Save: CharacterBackground
+[2020.07.12-11.29.38:128][472]LogContentValidation: Display: Validating Texture2D /Game/Textures/UI/CharacterBackground.CharacterBackground
+[2020.07.12-11.29.39:961][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.07.12-11.29.39:986][665]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.40:283][665]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap02592BE34019BE740CD59487DC90137F.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap.umap'
+[2020.07.12-11.29.40:327][665]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap_BuiltData35A4FEA54009D573BBD75691BC65BAE3.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap_BuiltData.uasset'
+[2020.07.12-11.29.40:345][665]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.29.40:345][665]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.07.12-11.29.40:345][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.07.12-11.29.40:716][706]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-11.29.40:738][706]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.40:738][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-11.29.40:738][706]PIE: New page: PIE session: TestMap (12 jul. 2020 15:29:40)
+[2020.07.12-11.29.40:738][706]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.29.40:742][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004008s)
+[2020.07.12-11.29.40:743][706]LogAIModule: Creating AISystem for world TestMap
+[2020.07.12-11.29.40:743][706]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2020.07.12-11.29.40:743][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.005377s)
+[2020.07.12-11.29.40:781][706]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-11.29.40:783][706]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-11.29.40:783][706]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-11.29.40:784][706]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-11.29.40:784][706]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: Channel Order:
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-11.29.40:852][706]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-11.29.40:870][706]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.29.40:872][706]LogInit: FAudioDevice initialized.
+[2020.07.12-11.29.40:880][706]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-11.29.40:881][706]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.12-13.29.40
+[2020.07.12-11.29.40:882][706]LogWorld: Bringing up level for play took: 0.001294
+[2020.07.12-11.29.40:882][706]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.07.12-11.29.40:883][706]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.29.40:884][706]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.29.40:884][706]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.29.40:885][706]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.29.40:885][706]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0,207
+[2020.07.12-11.29.40:885][706]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.41:991][830]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.42:272][858]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.42:761][911]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.43:546][991]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.44:082][ 46]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.44:082][ 46]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.44:082][ 46]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.44:082][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.29.44:082][ 46]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.29.44:082][ 46]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.44:083][ 46]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.29.44:083][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.29.44:093][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-11.29.44:093][ 46]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.44:098][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.29.44:138][ 46]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.44:141][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.29.44:146][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2020.07.12-11.29.44:211][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.07.12-11.29.44:503][ 73]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.44:797][105]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.47:166][386]LogTexture: Display: Building textures: CharacterBackground (BGRA8, 660X500)
+[2020.07.12-11.29.47:179][387]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/temp.FD1ECF3842C902C9046399A2E31FE5C2 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.47:179][387]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/temp.FD1ECF3842C902C9046399A2E31FE5C2! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.47:179][387]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/temp.0DA7933747F08523C90D3EAD1A06B22D (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.47:179][387]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/temp.0DA7933747F08523C90D3EAD1A06B22D! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.29.47:179][387]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_40938825412E73FECEEB52A064BFEE6__F97CDF2DAB268EF2DB25A6FDEC2F5411752735AA.
+[2020.07.12-11.29.47:962][477]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.48:413][502]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.48:692][534]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.48:992][568]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.49:076][569]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/CharacterBackground850EB6E94E4DD0FA1E123394327D1D6E.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/UI/CharacterBackground.uasset'
+[2020.07.12-11.29.49:089][569]AssetCheck: New page: Asset Save: CharacterBackground
+[2020.07.12-11.29.49:089][569]LogContentValidation: Display: Validating Texture2D /Game/Textures/UI/CharacterBackground.CharacterBackground
+[2020.07.12-11.29.49:937][653]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.50:154][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.07.12-11.29.50:403][668]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap67AD889547B0CBC7F216A3933C008114.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap.umap'
+[2020.07.12-11.29.50:442][668]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/TestMap_BuiltData1C405A8445B0DDBA49444397210A3D49.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/TestMap_BuiltData.uasset'
+[2020.07.12-11.29.50:461][668]AssetCheck: New page: Asset Save: multiple assets
+[2020.07.12-11.29.50:461][668]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2020.07.12-11.29.50:461][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2020.07.12-11.29.50:964][720]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-11.29.50:987][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.50:987][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-11.29.50:987][720]PIE: New page: PIE session: TestMap (12 jul. 2020 15:29:50)
+[2020.07.12-11.29.50:988][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.29.50:992][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004200s)
+[2020.07.12-11.29.50:993][720]LogAIModule: Creating AISystem for world TestMap
+[2020.07.12-11.29.50:993][720]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2020.07.12-11.29.50:993][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.005365s)
+[2020.07.12-11.29.51:033][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-11.29.51:034][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-11.29.51:034][720]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-11.29.51:034][720]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: Channel Order:
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-11.29.51:102][720]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-11.29.51:120][720]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-11.29.51:122][720]LogInit: FAudioDevice initialized.
+[2020.07.12-11.29.51:129][720]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-11.29.51:130][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2020.07.12-13.29.51
+[2020.07.12-11.29.51:131][720]LogWorld: Bringing up level for play took: 0.001333
+[2020.07.12-11.29.51:131][720]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.07.12-11.29.51:132][720]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.29.51:132][720]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-11.29.51:132][720]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.29.51:133][720]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-11.29.51:134][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TestMap 0,456
+[2020.07.12-11.29.51:134][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.52:259][844]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.52:563][873]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.52:591][874]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.52:591][874]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.52:591][874]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.52:591][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.29.52:591][874]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2020.07.12-11.29.52:592][874]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.52:592][874]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.29.52:592][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.29.52:599][874]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-11.29.52:600][874]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2020.07.12-11.29.52:605][874]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.29.52:643][874]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.29.52:646][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-11.29.52:651][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.07.12-11.29.52:711][876]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.07.12-11.29.52:965][900]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.29.56:115][261]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/CharacterBackground162F26B541B702D24BB1E3862596AF43.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Textures/UI/CharacterBackground.uasset'
+[2020.07.12-11.29.56:126][261]AssetCheck: New page: Asset Save: CharacterBackground
+[2020.07.12-11.29.56:126][261]LogContentValidation: Display: Validating Texture2D /Game/Textures/UI/CharacterBackground.CharacterBackground
+[2020.07.12-11.30.00:922][776]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.30.02:921][996]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.30.06:931][447]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.30.07:241][474]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.30.08:943][670]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.31.16:498][157]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-11.32.04:181][351]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.32.04:526][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.07.12-11.32.05:049][420]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-11.32.06:461][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.07.12-11.32.06:515][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:527][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:539][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:551][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:570][574]LogSlate: Window 'KokkieGameJam - Unreal Editor' being destroyed
+[2020.07.12-11.32.06:614][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:627][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:871][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.06:871][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-11.32.06:871][574]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.06:871][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.32.07:088][574]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.07:088][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.32.07:106][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.07:106][574]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.07:106][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.32.07:262][574]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.07:263][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.32.07:280][574]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.07:280][574]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.07:281][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-11.32.07:539][575]Cmd: QUIT_EDITOR
+[2020.07.12-11.32.07:539][575]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.12-11.32.07:560][575]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.07:562][575]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/4.24/Saved/Config/Windows/EditorLayout.ini (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-11.32.07:602][575]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.12-11.32.07:630][575]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-11.32.08:400][575]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-11.32.08:427][575]LogExit: Preparing to exit.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:511][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:512][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:513][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:513][575]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.07.12-11.32.09:514][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:775][575]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.12-11.32.09:959][575]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-11.32.09:960][575]LogExit: Editor shut down
+[2020.07.12-11.32.09:962][575]LogExit: Transaction tracking system shut down
+[2020.07.12-11.32.12:964][575]LogExit: Object subsystem successfully closed.
+[2020.07.12-11.32.13:258][575]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.07.12-11.32.15:489][575]LogModuleManager: Shutting down and abandoning module SequencerWidgets (710)
+[2020.07.12-11.32.15:489][575]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (708)
+[2020.07.12-11.32.15:490][575]LogModuleManager: Shutting down and abandoning module Voice (706)
+[2020.07.12-11.32.15:531][575]LogModuleManager: Shutting down and abandoning module TextureEditor (704)
+[2020.07.12-11.32.15:545][575]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (702)
+[2020.07.12-11.32.15:558][575]LogModuleManager: Shutting down and abandoning module BlueprintGraph (700)
+[2020.07.12-11.32.15:558][575]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (698)
+[2020.07.12-11.32.15:558][575]LogModuleManager: Shutting down and abandoning module SceneOutliner (696)
+[2020.07.12-11.32.15:558][575]LogModuleManager: Shutting down and abandoning module AddContentDialog (694)
+[2020.07.12-11.32.15:569][575]LogModuleManager: Shutting down and abandoning module WidgetCarousel (693)
+[2020.07.12-11.32.15:569][575]LogModuleManager: Shutting down and abandoning module EditorWidgets (690)
+[2020.07.12-11.32.15:569][575]LogModuleManager: Shutting down and abandoning module CollectionManager (688)
+[2020.07.12-11.32.15:579][575]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (686)
+[2020.07.12-11.32.15:579][575]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.07.12-11.32.15:591][575]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.07.12-11.32.15:591][575]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.07.12-11.32.15:605][575]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.07.12-11.32.15:640][575]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.07.12-11.32.15:656][575]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.07.12-11.32.15:656][575]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.07.12-11.32.15:656][575]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.07.12-11.32.15:665][575]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.07.12-11.32.15:665][575]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.07.12-11.32.15:679][575]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.07.12-11.32.15:779][575]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.07.12-11.32.15:779][575]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.07.12-11.32.15:800][575]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.07.12-11.32.15:800][575]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.07.12-11.32.15:800][575]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.07.12-11.32.15:815][575]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.07.12-11.32.15:823][575]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.07.12-11.32.15:849][575]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.07.12-11.32.15:849][575]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.07.12-11.32.15:849][575]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.07.12-11.32.15:908][575]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.07.12-11.32.15:909][575]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.07.12-11.32.15:909][575]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.07.12-11.32.15:939][575]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.07.12-11.32.15:939][575]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.07.12-11.32.15:946][575]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.07.12-11.32.15:962][575]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.07.12-11.32.15:984][575]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.07.12-11.32.15:984][575]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.07.12-11.32.15:984][575]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.07.12-11.32.15:984][575]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.07.12-11.32.16:034][575]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.07.12-11.32.16:034][575]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.07.12-11.32.16:034][575]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.07.12-11.32.16:034][575]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.07.12-11.32.16:034][575]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.07.12-11.32.16:046][575]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.07.12-11.32.16:059][575]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.07.12-11.32.16:059][575]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.07.12-11.32.16:059][575]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.07.12-11.32.16:068][575]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.07.12-11.32.16:068][575]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.07.12-11.32.16:087][575]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.07.12-11.32.16:088][575]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.07.12-11.32.16:088][575]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.07.12-11.32.16:147][575]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.07.12-11.32.16:188][575]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.07.12-11.32.16:291][575]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.07.12-11.32.16:325][575]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.07.12-11.32.16:333][575]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.07.12-11.32.16:333][575]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.07.12-11.32.16:333][575]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.07.12-11.32.16:333][575]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.07.12-11.32.16:627][575]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.07.12-11.32.16:642][575]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.07.12-11.32.16:661][575]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.07.12-11.32.16:678][575]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.07.12-11.32.16:706][575]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.07.12-11.32.16:707][575]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.07.12-11.32.16:715][575]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.07.12-11.32.16:731][575]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.07.12-11.32.16:741][575]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.07.12-11.32.16:741][575]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.07.12-11.32.16:741][575]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.07.12-11.32.16:791][575]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.07.12-11.32.16:801][575]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.07.12-11.32.16:811][575]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.07.12-11.32.16:838][575]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.07.12-11.32.16:850][575]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.07.12-11.32.16:861][575]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.07.12-11.32.16:874][575]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.07.12-11.32.16:919][575]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.07.12-11.32.16:928][575]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.07.12-11.32.16:946][575]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.07.12-11.32.16:965][575]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.07.12-11.32.16:965][575]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.07.12-11.32.16:978][575]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.07.12-11.32.16:978][575]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.07.12-11.32.17:032][575]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.07.12-11.32.17:055][575]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.07.12-11.32.17:055][575]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.07.12-11.32.17:066][575]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.07.12-11.32.17:085][575]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.07.12-11.32.17:085][575]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.07.12-11.32.17:085][575]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.07.12-11.32.17:097][575]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.07.12-11.32.17:097][575]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.07.12-11.32.17:104][575]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.07.12-11.32.17:119][575]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.07.12-11.32.17:125][575]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.07.12-11.32.17:134][575]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.07.12-11.32.17:134][575]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.07.12-11.32.17:134][575]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.07.12-11.32.17:162][575]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.07.12-11.32.17:162][575]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.07.12-11.32.17:162][575]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.07.12-11.32.17:175][575]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.07.12-11.32.17:192][575]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.07.12-11.32.17:193][575]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.07.12-11.32.17:227][575]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.07.12-11.32.17:227][575]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.07.12-11.32.17:231][575]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.07.12-11.32.17:418][575]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.07.12-11.32.17:441][575]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.07.12-11.32.17:441][575]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.07.12-11.32.17:454][575]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.07.12-11.32.17:454][575]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.07.12-11.32.17:454][575]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.07.12-11.32.17:454][575]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.07.12-11.32.17:454][575]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.07.12-11.32.17:468][575]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.07.12-11.32.17:515][575]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.07.12-11.32.17:535][575]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.07.12-11.32.17:543][575]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.07.12-11.32.17:550][575]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.07.12-11.32.17:565][575]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.07.12-11.32.17:565][575]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.07.12-11.32.17:565][575]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.07.12-11.32.17:590][575]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.07.12-11.32.17:603][575]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.07.12-11.32.17:603][575]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.07.12-11.32.17:625][575]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.07.12-11.32.17:649][575]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.07.12-11.32.17:659][575]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.07.12-11.32.17:670][575]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.07.12-11.32.17:670][575]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.07.12-11.32.17:670][575]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.07.12-11.32.17:681][575]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.07.12-11.32.17:681][575]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.07.12-11.32.17:681][575]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.07.12-11.32.17:696][575]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.07.12-11.32.17:742][575]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.07.12-11.32.17:757][575]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.07.12-11.32.17:767][575]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.07.12-11.32.17:767][575]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.07.12-11.32.17:783][575]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.07.12-11.32.17:798][575]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.07.12-11.32.17:899][575]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.07.12-11.32.18:018][575]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.07.12-11.32.18:034][575]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.07.12-11.32.18:047][575]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.07.12-11.32.18:048][575]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.07.12-11.32.18:048][575]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.07.12-11.32.18:048][575]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.07.12-11.32.18:048][575]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.07.12-11.32.18:048][575]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.07.12-11.32.18:060][575]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.07.12-11.32.18:060][575]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.07.12-11.32.18:072][575]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.07.12-11.32.18:073][575]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.07.12-11.32.18:088][575]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.07.12-11.32.18:112][575]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.07.12-11.32.18:132][575]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.07.12-11.32.18:132][575]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.07.12-11.32.18:133][575]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.07.12-11.32.18:223][575]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.07.12-11.32.18:225][575]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.07.12-11.32.18:233][575]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.07.12-11.32.18:233][575]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.07.12-11.32.18:233][575]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.07.12-11.32.18:233][575]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.07.12-11.32.18:255][575]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.07.12-11.32.18:262][575]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.07.12-11.32.18:262][575]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.07.12-11.32.18:262][575]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.07.12-11.32.18:262][575]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.07.12-11.32.18:281][575]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.07.12-11.32.18:292][575]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.07.12-11.32.18:292][575]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.07.12-11.32.18:292][575]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.07.12-11.32.18:310][575]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.07.12-11.32.18:329][575]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.07.12-11.32.18:329][575]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.07.12-11.32.18:361][575]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.07.12-11.32.18:376][575]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.07.12-11.32.18:396][575]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.07.12-11.32.18:498][575]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.07.12-11.32.18:498][575]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.07.12-11.32.18:498][575]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.07.12-11.32.18:498][575]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.07.12-11.32.18:520][575]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.07.12-11.32.18:520][575]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.07.12-11.32.18:520][575]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.07.12-11.32.18:520][575]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.07.12-11.32.18:525][575]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.07.12-11.32.18:525][575]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.07.12-11.32.18:525][575]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.07.12-11.32.18:542][575]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.07.12-11.32.18:557][575]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.07.12-11.32.18:557][575]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.07.12-11.32.18:557][575]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.07.12-11.32.18:578][575]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.07.12-11.32.18:578][575]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.07.12-11.32.18:589][575]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.07.12-11.32.18:593][575]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.07.12-11.32.18:593][575]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.07.12-11.32.18:593][575]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.07.12-11.32.18:609][575]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.07.12-11.32.18:609][575]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.07.12-11.32.18:622][575]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.07.12-11.32.18:640][575]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.07.12-11.32.18:735][575]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.07.12-11.32.18:745][575]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.07.12-11.32.18:756][575]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.07.12-11.32.18:756][575]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.07.12-11.32.18:756][575]LogDerivedDataCache: Shutdown
+[2020.07.12-11.32.18:756][575]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.07.12-11.32.18:757][575]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.07.12-11.32.18:757][575]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.07.12-11.32.18:768][575]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.07.12-11.32.18:782][575]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.07.12-11.32.18:792][575]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.07.12-11.32.18:792][575]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.07.12-11.32.18:808][575]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.07.12-11.32.18:808][575]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.07.12-11.32.18:808][575]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.07.12-11.32.18:808][575]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.07.12-11.32.18:820][575]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.07.12-11.32.18:820][575]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.07.12-11.32.18:820][575]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.07.12-11.32.18:820][575]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.07.12-11.32.18:834][575]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.07.12-11.32.18:834][575]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.07.12-11.32.18:847][575]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.07.12-11.32.18:847][575]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.07.12-11.32.18:847][575]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.07.12-11.32.18:847][575]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.07.12-11.32.18:847][575]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.07.12-11.32.18:867][575]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.07.12-11.32.18:876][575]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.07.12-11.32.18:876][575]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.07.12-11.32.18:891][575]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.07.12-11.32.18:895][575]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.07.12-11.32.18:895][575]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.07.12-11.32.18:908][575]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.07.12-11.32.18:915][575]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.07.12-11.32.18:915][575]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.07.12-11.32.18:923][575]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.07.12-11.32.18:960][575]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.07.12-11.32.18:960][575]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.07.12-11.32.18:960][575]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.07.12-11.32.18:960][575]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.07.12-11.32.18:961][575]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.07.12-11.32.18:961][575]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.07.12-11.32.18:989][575]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.07.12-11.32.18:989][575]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.07.12-11.32.18:990][575]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.07.12-11.32.19:001][575]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.07.12-11.32.19:013][575]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.07.12-11.32.19:025][575]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.07.12-11.32.19:025][575]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.07.12-11.32.19:035][575]LogHMD: Freeing OpenVRDLLHandle.
+[2020.07.12-11.32.19:035][575]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.07.12-11.32.19:054][575]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.07.12-11.32.19:054][575]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.07.12-11.32.19:054][575]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.07.12-11.32.19:054][575]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.07.12-11.32.19:066][575]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.07.12-11.32.19:082][575]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.07.12-11.32.19:111][575]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.07.12-11.32.19:111][575]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.07.12-11.32.19:111][575]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B26EE7689-4A72-4F1A-6811-148448BC5742%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1faa5b9f40411b88718a1e87fbdb531b%7C73dd0019cbb14b04b0051b578aa50a05%7C6ba6c75c-b4c1-4a77-8571-4d3eef4c3018&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.07.12-11.32.19:122][575]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.07.12-11.32.19:124][575]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.07.12-11.32.19:142][575]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.07.12-11.32.19:142][575]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.07.12-11.32.19:142][575]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.07.12-11.32.19:142][575]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.07.12-11.32.19:143][575]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.07.12-11.32.19:143][575]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.07.12-11.32.19:143][575]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.07.12-11.32.19:153][575]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.07.12-11.32.19:153][575]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.07.12-11.32.19:153][575]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.07.12-11.32.19:390][575]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.07.12-11.32.19:422][575]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.07.12-11.32.19:443][575]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.07.12-11.32.19:443][575]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.07.12-11.32.19:443][575]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.07.12-11.32.19:443][575]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.07.12-11.32.19:472][575]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.07.12-11.32.19:499][575]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.07.12-11.32.19:499][575]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.07.12-11.32.19:515][575]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.07.12-11.32.19:526][575]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.07.12-11.32.19:526][575]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.07.12-11.32.19:526][575]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.07.12-11.32.19:569][575]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.07.12-11.32.19:569][575]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.07.12-11.32.19:590][575]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.07.12-11.32.19:601][575]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.07.12-11.32.19:601][575]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.07.12-11.32.19:671][575]LogD3D11RHI: Shutdown
+[2020.07.12-11.32.19:671][575]LogD3D11RHI: CleanupD3DDevice
+[2020.07.12-11.32.19:804][575]LogExit: Exiting.
+[2020.07.12-11.32.19:827][575]Log file closed, 07/12/20 13:32:19
