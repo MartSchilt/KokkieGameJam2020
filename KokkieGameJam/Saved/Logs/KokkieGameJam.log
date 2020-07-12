@@ -1255,3 +1255,646 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.12-18.32.13:122][184]AssetCheck: New page: Asset Save: Level5
 [2020.07.12-18.32.13:122][184]LogContentValidation: Display: Validating World /Game/Maps/Level5.Level5
 [2020.07.12-18.32.20:144][531]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.27:167][552]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.31:861][566]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.35:733][585]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.39:974][940]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.43:740][328]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.12-18.32.44:268][341]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.47:917][746]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.49:051][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.07.12-18.32.49:218][874]LogAIModule: Creating AISystem for world ThanksForPlaying
+[2020.07.12-18.32.50:919][ 61]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.51:351][107]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ThanksForPlaying.ThanksForPlaying
+[2020.07.12-18.32.51:389][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.12-18.32.52:665][107]LogSlate: Window 'Save Content' being destroyed
+[2020.07.12-18.32.52:713][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.07.12-18.32.52:906][107]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlaying94120BE04DF319C5B52656844BC56B56.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/ThanksForPlaying.umap'
+[2020.07.12-18.32.52:909][107]LogFileHelpers: Saving map 'ThanksForPlaying' took 0.233
+[2020.07.12-18.32.52:910][107]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.52:911][107]LoadErrors: New page: Loading map: ThanksForPlaying.umap
+[2020.07.12-18.32.52:912][107]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.32.52:912][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.32.52:912][107]MapCheck: New page: Map Check
+[2020.07.12-18.32.52:912][107]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.52:951][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.07.12-18.32.52:989][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.07.12-18.32.53:020][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.07.12-18.32.53:022][107]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.32.53:056][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.07.12-18.32.53:078][107]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.32.53:078][107]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,063ms to complete.
+[2020.07.12-18.32.53:078][107]LogFileHelpers: Loading map 'ThanksForPlaying' took 0.169
+[2020.07.12-18.32.53:112][107]AssetCheck: New page: Asset Save: ThanksForPlaying
+[2020.07.12-18.32.53:112][107]LogContentValidation: Display: Validating World /Game/Maps/ThanksForPlaying.ThanksForPlaying
+[2020.07.12-18.32.53:913][196]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.54:523][264]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.12-18.32.54:524][264]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.07.12-18.32.54:559][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.07.12-18.32.54:562][264]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.54:563][264]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.12-18.32.54:564][264]LogWorld: UWorld::CleanupWorld for ThanksForPlaying, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.32.54:564][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.32.54:564][264]MapCheck: New page: Map Check
+[2020.07.12-18.32.54:564][264]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.54:599][264]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.07.12-18.32.54:602][264]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.32.54:638][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.07.12-18.32.54:660][264]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.32.54:660][264]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2020.07.12-18.32.54:661][264]LogFileHelpers: Loading map 'MainMenu' took 0.099
+[2020.07.12-18.32.55:406][343]LogAIModule: Creating AISystem for world ThanksForPlaying
+[2020.07.12-18.32.55:407][343]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ThanksForPlaying.ThanksForPlaying
+[2020.07.12-18.32.55:442][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.07.12-18.32.55:443][343]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.55:444][343]LoadErrors: New page: Loading map: ThanksForPlaying.umap
+[2020.07.12-18.32.55:444][343]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.32.55:444][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.32.55:444][343]MapCheck: New page: Map Check
+[2020.07.12-18.32.55:444][343]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.55:481][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.07.12-18.32.55:484][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.32.55:536][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.12-18.32.55:558][343]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.32.55:558][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2020.07.12-18.32.55:558][343]LogFileHelpers: Loading map 'ThanksForPlaying' took 0.115
+[2020.07.12-18.32.55:953][380]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.56:139][398]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.12-18.32.56:140][398]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.07.12-18.32.56:178][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.07.12-18.32.56:181][398]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.56:182][398]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.07.12-18.32.56:182][398]LogWorld: UWorld::CleanupWorld for ThanksForPlaying, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.32.56:182][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.32.56:182][398]MapCheck: New page: Map Check
+[2020.07.12-18.32.56:182][398]LightingResults: New page: Lighting Build
+[2020.07.12-18.32.56:216][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.07.12-18.32.56:219][398]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.32.56:253][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.07.12-18.32.56:274][398]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.32.56:274][398]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,065ms to complete.
+[2020.07.12-18.32.56:274][398]LogFileHelpers: Loading map 'MainMenu' took 0.094
+[2020.07.12-18.32.56:463][413]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.56:747][443]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.57:019][469]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.57:192][487]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-18.32.57:374][504]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.57:649][531]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.57:942][561]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.58:352][607]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.58:651][638]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.59:055][682]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.59:490][728]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.32.59:891][771]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.33.00:200][795]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.33.00:497][825]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.33.01:329][903]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.07.12-18.33.04:926][279]LogAIModule: Creating AISystem for world ThanksForPlaying
+[2020.07.12-18.33.04:928][279]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/ThanksForPlaying.ThanksForPlaying
+[2020.07.12-18.33.04:965][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.07.12-18.33.04:969][279]LightingResults: New page: Lighting Build
+[2020.07.12-18.33.04:970][279]LoadErrors: New page: Loading map: ThanksForPlaying.umap
+[2020.07.12-18.33.05:029][279]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.33.05:029][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.33.05:147][279]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.33.05:147][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.33.05:147][279]MapCheck: New page: Map Check
+[2020.07.12-18.33.05:147][279]LightingResults: New page: Lighting Build
+[2020.07.12-18.33.05:185][279]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.12-18.33.05:189][279]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.33.05:225][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.07.12-18.33.05:249][279]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.33.05:249][279]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2020.07.12-18.33.05:249][279]LogFileHelpers: Loading map 'ThanksForPlaying' took 0.282
+[2020.07.12-18.33.09:448][707]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying
+[2020.07.12-18.33.27:570][751]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.33.31:334][ 27]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenuBP.MainMenuBP
+[2020.07.12-18.33.35:037][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.07.12-18.33.36:342][341]LogSlate: Window 'Delete Assets' being destroyed
+[2020.07.12-18.33.37:077][341]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.33.37:077][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.33.37:082][341]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.33.37:082][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.33.37:119][341]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.33.41:670][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.07.12-18.33.50:254][308]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2020.07.12-18.33.51:553][455]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.33.53:748][634]LogSlate: Took 0.029310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.07.12-18.34.33:650][923]BlueprintLog: New page: Compile ThanksForPlayingBP
+[2020.07.12-18.34.33:943][923]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.07.12-18.34.34:280][956]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlayingBP309B05F34D4CBFCA9ACEC28B01B7795B.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/ThanksForPlayingBP.uasset'
+[2020.07.12-18.34.34:299][956]AssetCheck: New page: Asset Save: ThanksForPlayingBP
+[2020.07.12-18.34.34:299][956]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.35.08:531][533]AssetReimport: New page: Outstanding source content changes 22:35:08
+[2020.07.12-18.35.08:532][533]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/LeashMainMEnu.png)
+[2020.07.12-18.35.09:562][533]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_9654ED204BA408A88932E0AC93BB5__3B97589B1DBC2D9300B6378E29F711FAA5F15613.
+[2020.07.12-18.35.09:636][533]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.51EEE07743ED3FB1C98CE9874F7A7BB3 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.35.09:636][533]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.51EEE07743ED3FB1C98CE9874F7A7BB3! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.35.09:636][533]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_AutoDXT_9654ED204BA408A88932E0AC93BB5__C57D08A63AD8FEE5F46EE996F1A1012F3515E06A.
+[2020.07.12-18.35.10:188][534]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/LeashMainMEnuF0EE24DB4AC092066A3F96B7E96E9B6F.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/LeashMainMEnu.uasset'
+[2020.07.12-18.35.10:245][535]AssetCheck: New page: Asset Save: LeashMainMEnu
+[2020.07.12-18.35.10:245][535]LogContentValidation: Display: Validating Texture2D /Game/Kjell/LeashMainMEnu.LeashMainMEnu
+[2020.07.12-18.35.13:226][881]AssetReimport: Importing new asset /Game/Kjell/LeashMainMEnu.
+[2020.07.12-18.35.58:398][825]LogEditorTransaction: Undo Move Widget
+[2020.07.12-18.36.04:102][404]LogEditorTransaction: Undo Move Widget
+[2020.07.12-18.36.23:104][539]LogEditorTransaction: Undo Move Widget
+[2020.07.12-18.36.27:677][  4]LogEditorTransaction: Undo Move Widget
+[2020.07.12-18.36.49:048][463]BlueprintLog: New page: Compile ThanksForPlayingBP
+[2020.07.12-18.36.49:105][463]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2020.07.12-18.36.49:579][509]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlayingBPAABE0531490487EDF665E4BD3261A719.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/ThanksForPlayingBP.uasset'
+[2020.07.12-18.36.49:591][509]AssetCheck: New page: Asset Save: ThanksForPlayingBP
+[2020.07.12-18.36.49:591][509]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.37.07:425][566]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlayingBP8D9A3BBB4A0A09C2F063EDAF2D283653.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/ThanksForPlayingBP.uasset'
+[2020.07.12-18.37.07:436][566]AssetCheck: New page: Asset Save: ThanksForPlayingBP
+[2020.07.12-18.37.07:436][566]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.37.09:491][790]LogTemp: Repeating last play command: Selected Viewport
+[2020.07.12-18.37.09:522][790]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying' with GeneratedClass '/Game/Maps/ThanksForPlaying.ThanksForPlaying_C' with ClassGeneratedBy '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying'
+[2020.07.12-18.37.09:522][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-18.37.09:522][790]PIE: New page: PIE session: ThanksForPlaying (12 jul. 2020 22:37:09)
+[2020.07.12-18.37.09:522][790]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_ThanksForPlaying
+[2020.07.12-18.37.09:524][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001851s)
+[2020.07.12-18.37.09:525][790]LogAIModule: Creating AISystem for world ThanksForPlaying
+[2020.07.12-18.37.09:525][790]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.07.12-18.37.09:525][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/ThanksForPlaying.ThanksForPlaying to /Game/Maps/UEDPIE_0_ThanksForPlaying.ThanksForPlaying (0.002986s)
+[2020.07.12-18.37.09:574][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-18.37.09:575][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-18.37.09:575][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-18.37.09:576][790]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-18.37.09:576][790]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: Channel Order:
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-18.37.09:642][790]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-18.37.09:662][790]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.37.09:663][790]LogInit: FAudioDevice initialized.
+[2020.07.12-18.37.09:671][790]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.37.09:672][790]LogWorld: Bringing World /Game/Maps/UEDPIE_0_ThanksForPlaying.ThanksForPlaying up for play (max tick rate 0) at 2020.07.12-20.37.09
+[2020.07.12-18.37.09:673][790]LogWorld: Bringing up level for play took: 0.000601
+[2020.07.12-18.37.09:673][790]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.07.12-18.37.09:674][790]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.37.09:674][790]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.37.09:674][790]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-18.37.09:675][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetSidePortrait'!
+[2020.07.12-18.37.09:675][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetMainPortrait'!
+[2020.07.12-18.37.09:675][790]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-18.37.09:675][790]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_ThanksForPlaying 0,997
+[2020.07.12-18.37.09:675][790]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying' with GeneratedClass '/Game/Maps/ThanksForPlaying.ThanksForPlaying_C' with ClassGeneratedBy '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying'
+[2020.07.12-18.37.09:680][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetSidePortrait'!
+[2020.07.12-18.37.09:680][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetMainPortrait'!
+[2020.07.12-18.37.09:680][790]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	MainUIBP_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.MainUIBP_C_0
+	Function /Game/UI/MainUIBP.MainUIBP_C:Get Time:0131
+[2020.07.12-18.37.09:680][790]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	MainUIBP_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.MainUIBP_C_0
+	Function /Game/UI/MainUIBP.MainUIBP_C:Get Time:0182
+[2020.07.12-18.37.09:680][790]LogScript: Warning: Accessed None trying to read property CallFunc_GetActorOfClass_ReturnValue
+	MainUIBP_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.MainUIBP_C_0
+	Function /Game/UI/MainUIBP.MainUIBP_C:Get Time:01BD
+[2020.07.12-18.37.09:682][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetSidePortrait'!
+[2020.07.12-18.37.09:683][790]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/UI/MainUIBP.MainUIBP_C:SetMainPortrait'!
+[2020.07.12-18.37.09:689][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.37.09:690][791]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.12-18.37.10:491][887]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_3' of length 0 in '/Game/Characters/CustomPlayerControllerBP.CustomPlayerControllerBP_C:ExecuteUbergraph_CustomPlayerControllerBP'!
+[2020.07.12-18.37.12:284][101]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.07.12-18.37.12:284][101]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.07.12-18.37.12:284][101]LogNet: Browse: /Game/Maps/Level1
+[2020.07.12-18.37.12:284][101]LogLoad: LoadMap: /Game/Maps/Level1
+[2020.07.12-18.37.12:284][101]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_ThanksForPlaying
+[2020.07.12-18.37.12:284][101]LogWorld: UWorld::CleanupWorld for ThanksForPlaying, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.37.12:284][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.37.12:284][101]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.37.12:332][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.07.12-18.37.12:580][101]LogAIModule: Creating AISystem for world Level1
+[2020.07.12-18.37.12:580][101]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.37.12:588][101]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.07.12-20.37.12
+[2020.07.12-18.37.12:589][101]LogWorld: Bringing up level for play took: 0.007587
+[2020.07.12-18.37.12:589][101]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.12-18.37.12:590][101]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.37.12:590][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.37.12:590][101]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-18.37.12:591][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.07.12-18.37.12:591][101]LogLoad: Took 0.306511 seconds to LoadMap(/Game/Maps/Level1)
+[2020.07.12-18.37.16:356][523]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.37.16:357][523]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.12-18.37.16:377][523]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.12-18.37.16:377][523]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying' with GeneratedClass '/Game/Maps/ThanksForPlaying.ThanksForPlaying_C' with ClassGeneratedBy '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying'
+[2020.07.12-18.37.16:377][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.37.16:377][523]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level1
+[2020.07.12-18.37.16:377][523]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.37.16:377][523]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.37.16:378][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.37.16:389][523]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-18.37.16:389][523]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying' with GeneratedClass '/Game/Maps/ThanksForPlaying.ThanksForPlaying_C' with ClassGeneratedBy '/Game/Maps/ThanksForPlaying.ThanksForPlaying:PersistentLevel.ThanksForPlaying'
+[2020.07.12-18.37.16:395][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.37.16:440][523]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.37.16:444][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.37.16:449][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.07.12-18.37.16:473][524]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.07.12-18.37.52:596][ 34]LogEditorViewport: Clicking Background
+[2020.07.12-18.38.22:782][451]LogTexture: Display: Building textures: LeashMainMEnu (BGRA8, 8192X2048)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/temp.8892EF36464A1438321829B75DB10F7B (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/temp.499207CE48E4CBC2F021849973248CD2 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.34C56062489B1A7F6023C4A3326A7946 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/8/temp.499207CE48E4CBC2F021849973248CD2! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/temp.8892EF36464A1438321829B75DB10F7B! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.34C56062489B1A7F6023C4A3326A7946! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/temp.93CD01CF48A9D76476E2B38449B64562 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/temp.93CD01CF48A9D76476E2B38449B64562! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.4FB4FA274F223079F7E1DAADE1131178 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.4FB4FA274F223079F7E1DAADE1131178! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.F353F7B44535FE620488C684BF56A699 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.EA9E4B344C19BFE60933DFBA602BDEE3 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:663][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/temp.46A09F544EED0C4C63F641B48F8BCECF (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/temp.F353F7B44535FE620488C684BF56A699! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/6/temp.46A09F544EED0C4C63F641B48F8BCECF! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_9654ED204BA408A88932E0AC93BB528__41230C67AA8F41BE158418180A94EAAB76A4D0C7.
+[2020.07.12-18.38.23:664][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.5E2C03D542E3203E0DBF74AA54D5912D (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/temp.5E2C03D542E3203E0DBF74AA54D5912D! Error: 0 (De bewerking is voltooid.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_9654ED204BA408A88932E0AC93BB528__AA158B49786CBC100E26124C8B1630A30428046E.
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.EA9E4B344C19BFE60933DFBA602BDEE3! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/temp.8C68BD51431B9A1078BACC868AB85E52 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/6/temp.8C68BD51431B9A1078BACC868AB85E52! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_9654ED204BA408A88932E0AC93BB528__0073AEE883EED0209AFC2AAD504BD96E4B5B2D28.
+[2020.07.12-18.38.23:664][452]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.73989D194CEE3017E79ADEB8C5AD652D (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/7/temp.73989D194CEE3017E79ADEB8C5AD652D! Error: 0 (De bewerking is voltooid.)
+[2020.07.12-18.38.23:664][452]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_9654ED204BA408A88932E0AC93BB528__70C578850730C854A2E7A6F9A62497E78A101077.
+[2020.07.12-18.38.23:679][454]LogFileManager: Error: Error writing to file: C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/temp.F81C3E714D1A3C256CDB149BFC700BD7 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:687][455]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/marts/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/9/temp.F81C3E714D1A3C256CDB149BFC700BD7! Error: 112 (Onvoldoende schijfruimte beschikbaar.)
+[2020.07.12-18.38.23:687][455]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_9654ED204BA408A88932E0AC93BB528__B9174DF2FC3BEB44F3A60AE07999AF61C474FA85.
+[2020.07.12-18.38.25:563][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.07.12-18.38.25:836][654]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlaying96221CA04097C26980229A8F8510F3D6.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/ThanksForPlaying.umap'
+[2020.07.12-18.38.25:871][654]AssetCheck: New page: Asset Save: ThanksForPlaying
+[2020.07.12-18.38.25:871][654]LogContentValidation: Display: Validating World /Game/Maps/ThanksForPlaying.ThanksForPlaying
+[2020.07.12-18.38.29:744][103]BlueprintLog: New page: Compile ThanksForPlayingBP
+[2020.07.12-18.38.29:798][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.07.12-18.38.30:348][160]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/ThanksForPlayingBPC1F65323496077FCD45492B8B108E9AA.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/UI/ThanksForPlayingBP.uasset'
+[2020.07.12-18.38.30:364][160]AssetCheck: New page: Asset Save: ThanksForPlayingBP
+[2020.07.12-18.38.30:364][160]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/ThanksForPlayingBP.ThanksForPlayingBP
+[2020.07.12-18.38.44:924][757]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.38.45:574][817]LogAIModule: Creating AISystem for world Level4
+[2020.07.12-18.38.45:595][817]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level4.Level4
+[2020.07.12-18.38.45:647][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.07.12-18.38.47:545][817]LogSlate: Window 'Save Content' being destroyed
+[2020.07.12-18.38.47:609][817]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/LeashMainMEnu5A596EEC4AB07B034FA2F1AE0500E4C2.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Kjell/LeashMainMEnu.uasset'
+[2020.07.12-18.38.47:612][817]LightingResults: New page: Lighting Build
+[2020.07.12-18.38.47:612][817]LoadErrors: New page: Loading map: Level4.umap
+[2020.07.12-18.38.47:625][817]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.38.47:625][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.38.47:666][817]LogWorld: UWorld::CleanupWorld for ThanksForPlaying, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.38.47:667][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.38.47:667][817]MapCheck: New page: Map Check
+[2020.07.12-18.38.47:667][817]LightingResults: New page: Lighting Build
+[2020.07.12-18.38.47:716][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.07.12-18.38.47:797][817]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.38.47:846][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.07.12-18.38.47:868][817]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.38.47:868][817]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2020.07.12-18.38.47:868][817]LogFileHelpers: Loading map 'Level4' took 0.257
+[2020.07.12-18.38.47:903][817]AssetCheck: New page: Asset Save: LeashMainMEnu
+[2020.07.12-18.38.47:903][817]LogContentValidation: Display: Validating Texture2D /Game/Kjell/LeashMainMEnu.LeashMainMEnu
+[2020.07.12-18.38.48:708][872]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-18.38.51:614][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-18.38.51:614][159]PIE: New page: SIE session: Level4 (12 jul. 2020 22:38:51)
+[2020.07.12-18.38.51:614][159]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level4
+[2020.07.12-18.38.51:623][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008898s)
+[2020.07.12-18.38.51:624][159]LogAIModule: Creating AISystem for world Level4
+[2020.07.12-18.38.51:624][159]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2020.07.12-18.38.51:624][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level4.Level4 to /Game/Maps/UEDPIE_0_Level4.Level4 (0.010177s)
+[2020.07.12-18.38.51:665][159]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-18.38.51:672][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-18.38.51:672][159]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-18.38.51:672][159]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: Channel Order:
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-18.38.51:745][159]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-18.38.51:764][159]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.38.51:765][159]LogInit: FAudioDevice initialized.
+[2020.07.12-18.38.51:770][159]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.38.51:774][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.07.12-20.38.51
+[2020.07.12-18.38.51:775][159]LogWorld: Bringing up level for play took: 0.003772
+[2020.07.12-18.38.51:775][159]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.07.12-18.38.51:812][159]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.12-18.38.51:812][159]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.38.51:843][159]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.38.51:843][159]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level4 1,166
+[2020.07.12-18.38.54:308][409]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.38.54:592][437]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.00:368][123]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.01:409][243]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.01:409][243]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.01:410][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.39.01:410][243]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level4
+[2020.07.12-18.39.01:411][243]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.01:412][243]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.39.01:412][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.39.01:423][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-18.39.01:428][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.39.01:469][243]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.01:472][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.39.01:477][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.07.12-18.39.01:522][245]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.07.12-18.39.01:766][269]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.04:055][503]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.05:911][718]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-18.39.06:074][733]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.06:369][756]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.06:683][788]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.06:963][816]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.07:899][912]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.08:092][931]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2020.07.12-18.39.08:207][942]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.08:481][971]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.08:735][988]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.09:020][ 21]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.09:436][ 47]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.31:906][491]BlueprintLog: New page: Compile CarParent
+[2020.07.12-18.39.32:210][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.07.12-18.39.32:652][526]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/CarParentB55E3C2C4B4DB5AF775C6BBE7AAC0CDE.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Obstacles/Cars/CarParent.uasset'
+[2020.07.12-18.39.32:669][526]AssetCheck: New page: Asset Save: CarParent
+[2020.07.12-18.39.32:669][526]LogContentValidation: Display: Validating Blueprint /Game/Obstacles/Cars/CarParent.CarParent
+[2020.07.12-18.39.33:649][620]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.07.12-18.39.33:706][620]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/Level436C467E1462CAB45618FD4BF033956A6.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/Level4.umap'
+[2020.07.12-18.39.33:742][620]AssetCheck: New page: Asset Save: Level4
+[2020.07.12-18.39.33:743][620]LogContentValidation: Display: Validating World /Game/Maps/Level4.Level4
+[2020.07.12-18.39.34:068][649]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.34:614][708]LogTemp: Repeating last play command: Simulate
+[2020.07.12-18.39.34:648][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-18.39.34:648][708]PIE: New page: SIE session: Level4 (12 jul. 2020 22:39:34)
+[2020.07.12-18.39.34:648][708]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level4
+[2020.07.12-18.39.34:657][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008687s)
+[2020.07.12-18.39.34:658][708]LogAIModule: Creating AISystem for world Level4
+[2020.07.12-18.39.34:658][708]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.07.12-18.39.34:658][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level4.Level4 to /Game/Maps/UEDPIE_0_Level4.Level4 (0.010007s)
+[2020.07.12-18.39.34:700][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-18.39.34:702][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-18.39.34:702][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-18.39.34:703][708]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-18.39.34:703][708]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: Channel Order:
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-18.39.34:773][708]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-18.39.34:792][708]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.39.34:793][708]LogInit: FAudioDevice initialized.
+[2020.07.12-18.39.34:799][708]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.39.34:803][708]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.07.12-20.39.34
+[2020.07.12-18.39.34:803][708]LogWorld: Bringing up level for play took: 0.003900
+[2020.07.12-18.39.34:803][708]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.07.12-18.39.34:805][708]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.07.12-18.39.34:805][708]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.39.34:807][708]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.39.34:807][708]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level4 0,13
+[2020.07.12-18.39.35:123][730]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.35:424][751]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.35:876][798]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.36:156][825]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.39:948][273]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.40:239][301]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.40:535][329]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.45:060][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.45:060][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.45:060][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.39.45:060][869]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level4
+[2020.07.12-18.39.45:061][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.45:062][869]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.39.45:063][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.39.45:076][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-18.39.45:081][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.39.45:118][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.39.45:121][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.39.45:126][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.07.12-18.39.45:168][871]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.07.12-18.39.45:418][896]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.45:729][925]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.48:637][986]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.48:989][ 12]LogAIModule: Creating AISystem for world Level5
+[2020.07.12-18.39.49:014][ 12]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level5.Level5
+[2020.07.12-18.39.49:062][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.07.12-18.39.49:066][ 12]LightingResults: New page: Lighting Build
+[2020.07.12-18.39.49:067][ 12]LoadErrors: New page: Loading map: Level5.umap
+[2020.07.12-18.39.49:068][ 12]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.39.49:068][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.39.49:068][ 12]MapCheck: New page: Map Check
+[2020.07.12-18.39.49:068][ 12]LightingResults: New page: Lighting Build
+[2020.07.12-18.39.49:114][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.07.12-18.39.49:154][ 12]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.12-18.39.49:207][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.07.12-18.39.49:230][ 12]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.12-18.39.49:230][ 12]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2020.07.12-18.39.49:230][ 12]LogFileHelpers: Loading map 'Level5' took 0.166
+[2020.07.12-18.39.49:294][ 13]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.49:566][ 38]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.49:906][ 72]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.50:196][100]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.50:558][135]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.50:874][153]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.52:008][276]LogTemp: Repeating last play command: Simulate
+[2020.07.12-18.39.52:039][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-18.39.52:039][276]PIE: New page: SIE session: Level5 (12 jul. 2020 22:39:52)
+[2020.07.12-18.39.52:040][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level5
+[2020.07.12-18.39.52:051][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010877s)
+[2020.07.12-18.39.52:052][276]LogAIModule: Creating AISystem for world Level5
+[2020.07.12-18.39.52:052][276]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2020.07.12-18.39.52:052][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level5.Level5 to /Game/Maps/UEDPIE_0_Level5.Level5 (0.012361s)
+[2020.07.12-18.39.52:095][276]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-18.39.52:098][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-18.39.52:098][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-18.39.52:099][276]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-18.39.52:099][276]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: Channel Order:
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-18.39.52:164][276]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-18.39.52:183][276]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.39.52:184][276]LogInit: FAudioDevice initialized.
+[2020.07.12-18.39.52:193][276]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.39.52:198][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2020.07.12-20.39.52
+[2020.07.12-18.39.52:199][276]LogWorld: Bringing up level for play took: 0.005054
+[2020.07.12-18.39.52:199][276]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.07.12-18.39.52:444][276]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.39.52:447][276]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.39.52:447][276]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level5 -0,231
+[2020.07.12-18.39.52:773][302]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.53:109][331]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.54:287][456]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.54:625][475]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.55:945][624]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.57:935][855]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.39.58:242][874]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.02:522][371]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.05:975][742]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.06:289][773]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.08:914][ 80]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.09:914][193]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.11:348][349]LogEditorViewport: Clicking on Actor (LMB): CatBP_C (CatBP)
+[2020.07.12-18.40.13:624][573]Cmd: DELETE
+[2020.07.12-18.40.13:624][573]Cmd: ACTOR DELETE
+[2020.07.12-18.40.14:002][573]LogEditorActor: Deleted Actor: CatBP_C
+[2020.07.12-18.40.14:047][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.12-18.40.14:051][573]LogEditorActor: Deleted 1 Actors (0.114 secs)
+[2020.07.12-18.40.15:006][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.15:006][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.15:007][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.40.15:007][667]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level5
+[2020.07.12-18.40.15:008][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.15:008][667]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.40.15:010][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.40.15:021][667]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-18.40.15:026][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.40.15:064][667]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.15:067][667]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.40.15:072][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.07.12-18.40.15:112][671]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.07.12-18.40.16:364][817]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.18:291][ 17]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.45:160][166]LogTemp: Repeating last play command: Simulate
+[2020.07.12-18.40.45:183][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.07.12-18.40.45:183][166]PIE: New page: SIE session: Level5 (12 jul. 2020 22:40:45)
+[2020.07.12-18.40.45:183][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level5
+[2020.07.12-18.40.45:192][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009144s)
+[2020.07.12-18.40.45:193][166]LogAIModule: Creating AISystem for world Level5
+[2020.07.12-18.40.45:194][166]LogPlayLevel: PIE: World Init took: (0.001406s)
+[2020.07.12-18.40.45:194][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level5.Level5 to /Game/Maps/UEDPIE_0_Level5.Level5 (0.010689s)
+[2020.07.12-18.40.45:238][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.12-18.40.45:242][166]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.12-18.40.45:242][166]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.12-18.40.45:243][166]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.12-18.40.45:243][166]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Name: Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Is Default: Yes
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: Channel Order:
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.12-18.40.45:308][166]LogAudioMixer: Display: 1: FrontRight
+[2020.07.12-18.40.45:326][166]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2020.07.12-18.40.45:327][166]LogInit: FAudioDevice initialized.
+[2020.07.12-18.40.45:334][166]LogLoad: Game class is 'CustomGameModeBP_C'
+[2020.07.12-18.40.45:339][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2020.07.12-20.40.45
+[2020.07.12-18.40.45:340][166]LogWorld: Bringing up level for play took: 0.004914
+[2020.07.12-18.40.45:340][166]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.07.12-18.40.45:342][166]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.40.45:345][166]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.07.12-18.40.45:345][166]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level5 0,667
+[2020.07.12-18.40.47:556][402]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.47:556][402]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.47:557][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.40.47:557][402]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level5
+[2020.07.12-18.40.47:558][402]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.47:558][402]LogWorld: UWorld::CleanupWorld for Level5, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.40.47:559][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.40.47:570][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.12-18.40.47:575][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.40.47:615][402]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.40.47:618][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.12-18.40.47:623][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.07.12-18.40.47:665][404]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.07.12-18.40.49:082][574]LogEditorViewport: Clicking on Actor (LMB): CatBP_C (CatBP)
+[2020.07.12-18.40.53:231][ 42]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.40.55:828][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.07.12-18.40.55:869][326]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/Level5D94186AD49851A3E7E8106B811E92DE4.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/Level5.umap'
+[2020.07.12-18.40.55:903][326]AssetCheck: New page: Asset Save: Level5
+[2020.07.12-18.40.55:903][326]LogContentValidation: Display: Validating World /Game/Maps/Level5.Level5
+[2020.07.12-18.41.07:702][549]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.41.12:071][563]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.41.31:050][579]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.41.47:905][406]LogSlate: Window 'Project Settings' being destroyed
+[2020.07.12-18.41.48:536][436]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.07.12-18.41.48:576][436]LogSavePackage: Moving '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Saved/Level5FCB4DAC04C275AE6AEE57094FB53EC0E.tmp' to '../../../../../Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/Content/Maps/Level5.umap'
+[2020.07.12-18.41.48:615][436]AssetCheck: New page: Asset Save: Level5
+[2020.07.12-18.41.48:615][436]LogContentValidation: Display: Validating World /Game/Maps/Level5.Level5
+[2020.07.12-18.41.49:620][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.07.12-18.42.15:210][ 31]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.07.12-18.42.23:325][728]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.07.12-18.42.29:692][728]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2020.07.12-18.42.29:935][737]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject="D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/KokkieGameJam.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020/KokkieGameJam/KokkieGameJam.uproject" -cook -stage -archive -archivedirectory="D:/Local Files/Documenten/School/UDC/UntitledDungeonCrawler/KokkieGameJam2020/KokkieGameJam2020" -package -ue4exe=D:\Unreal\UE_4.24\Engine\Binaries\Win64\UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Win64 -build -target=KokkieGameJam -clientconfig=Development -utf8output
+[2020.07.12-18.42.30:421][768]LogD3D11RHI: Warning: Temp texture streaming buffer not large enough, needed 67108864 bytes
+[2020.07.12-18.42.31:208][842]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020\KokkieGameJam\KokkieGameJam.uproject
+[2020.07.12-18.42.33:646][111]UATHelper: Packaging (Windows (64-bit)): ********** BUILD COMMAND STARTED **********
+[2020.07.12-18.42.33:725][120]UATHelper: Packaging (Windows (64-bit)): Running: D:\Unreal\UE_4.24\Engine\Binaries\DotNET\UnrealBuildTool.exe KokkieGameJam Win64 Development -Project="D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020\KokkieGameJam\KokkieGameJam.uproject"  "D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020\KokkieGameJam\KokkieGameJam.uproject" -NoUBTMakefiles  -remoteini="D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020\KokkieGameJam" -skipdeploy -Manifest="D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020\KokkieGameJam\Intermediate\Build\Manifest.xml" -NoHotReload -log="C:\Users\marts\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Unreal+UE_4.24\UBT-KokkieGameJam-Win64-Development.txt"
+[2020.07.12-18.42.34:656][217]UATHelper: Packaging (Windows (64-bit)):   Using 'git status' to determine working set for adaptive non-unity build (D:\Local Files\Documenten\School\UDC\UntitledDungeonCrawler\KokkieGameJam2020\KokkieGameJam2020).
+[2020.07.12-18.42.47:912][614]UATHelper: Packaging (Windows (64-bit)):   D:\Unreal\UE_4.24\Engine\Plugins\Victory24\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs: warning: Referenced directory 'D:\Unreal\UE_4.24\Engine\Source\VictoryBPLibrary\Public' does not exist.
+[2020.07.12-18.42.47:912][614]PackagingResults: Warning: Referenced directory 'D:\Unreal\UE_4.24\Engine\Source\VictoryBPLibrary\Public' does not exist.
+[2020.07.12-18.42.51:209][806]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.07.12-18.42.51:313][806]LogSlate: Window 'KokkieGameJam - Unreal Editor' being destroyed
+[2020.07.12-18.42.51:314][806]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.07.12-18.42.51:470][806]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:470][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:574][806]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.07.12-18.42.51:574][806]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:574][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:639][806]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:639][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:657][806]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:658][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:731][806]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:731][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:739][806]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.51:739][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.12-18.42.51:896][807]Cmd: QUIT_EDITOR
+[2020.07.12-18.42.51:896][807]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.07.12-18.42.51:914][807]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.07.12-18.42.51:953][807]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.12-18.42.52:652][807]LogExit: Preparing to exit.
+[2020.07.12-18.42.53:981][807]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.53:990][807]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.54:325][807]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.07.12-18.42.54:510][807]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.07.12-18.42.54:510][807]LogExit: Editor shut down
+[2020.07.12-18.42.54:512][807]LogExit: Transaction tracking system shut down
+[2020.07.12-18.42.56:715][807]LogExit: Object subsystem successfully closed.
